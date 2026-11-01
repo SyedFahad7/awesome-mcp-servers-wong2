@@ -379,6 +379,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Google Search Console](https://github.com/ahonn/mcp-server-gsc)** - A Model Context Protocol (MCP) server providing access to Google Search Console.
 - **[GitHub Repos Manager MCP Server](https://github.com/kurdin/github-repos-manager-mcp)** - Token-based GitHub automation management. No Docker, Flexible configuration, 80+ tools with direct API integration.
 - **[gotoolkits/wecombot](https://github.com/gotoolkits/mcp-wecombot-server.git)** - 🏎️ ☁️ An MCP server application that sends various types of messages to the WeCom group robot.
+- **[Graphify](https://github.com/Graphify-Labs/graphify)** - Builds a knowledge graph of a codebase that coding agents query over MCP for callers, dependencies and impact, instead of reading files one by one.
 - **[Gru Sandbox](https://github.com/babelcloud/gru-sandbox)** - Gru-sandbox(gbox) is an open source project that provides a self-hostable sandbox for MCP integration or other AI agent usecases.
 - **[gx-mcp-server](https://github.com/davidf9999/gx-mcp-server)** - Expose Great Expectations data validation and
   quality checks as MCP tools for AI agents. Load datasets, create validation suites, run data quality checks, and
